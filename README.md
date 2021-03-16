@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majedul-Hasan
-- 👀 I’m interested in ...webDevelopmen
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ...personalDevelopment, webDevelopment
+- 🌱 I’m currently learning ...Reactjs, datastructure, nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...hasanmjedul@gmail.com
 
