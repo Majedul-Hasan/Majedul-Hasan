@@ -184,7 +184,7 @@ You can click the Preview link to take a look at your changes.
 
   <a style="margin: 5px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="illustrator"
       align="left"
@@ -193,7 +193,7 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.photoshop.com/en" target="_blank">
+  <a style="margin: 15px" href="https://www.photoshop.com/en" target="_blank">
     <img
       style="margin: 5px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -204,9 +204,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.adobe.com/products/xd.html" target="_blank">
+  <a style="margin: 15px" href="https://www.adobe.com/products/xd.html" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
       alt="xd"
       align="left"
