@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Majedul-Hasan
-- 👀 I’m interested in ...personalDevelopment, webDevelopment
-- 🌱 I’m currently learning ...Reactjs, datastructure, nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...hasanmjedul@gmail.com
-
 <!---
 Majedul-Hasan/Majedul-Hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   🥅 2022 Goals: React, Node, Mongo, Next.js, Express.js
 </p><br/>
 
-![Profile views](https://www.facebook.com/h.majedul)
+![Profile views](https://gpvc.arturio.dev/Majedul-Hasan)
 
 <p>I am a Full Stack developer, experience with web applications and building websites, who is passionate about making error-free websites with 100% client satisfaction. I have professional experience working with React, MongoDB, Node, Express and JavaScript. I am undergraduate honours in Physics. In my time, I study new technologies. I am both driven and self-motivated.<p/>
 
@@ -243,7 +237,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="mailto:hasanmajedul@gmail.com">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-akashahmed5724%40gmail.com-brightgreen"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-hasanmajedul%40gmail.com-brightgreen"
     alt="emailAddress"
   />
 </a>
