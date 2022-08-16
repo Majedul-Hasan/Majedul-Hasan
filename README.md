@@ -42,6 +42,16 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
+  <a style="margin: 5px" href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      style="margin: 5px"
+      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)"
+      alt="SCSS"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
   <a style="margin: 5px" href="https://getbootstrap.com" target="_blank">
     <img
       style="margin: 5px"
@@ -96,11 +106,11 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-    <a style="margin: 5px" href="https://reactjs.org/" target="_blank">
+    <a style="margin: 5px" href="https://redux.js.org" target="_blank">
     <img
       style="margin: 5px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-      alt="react"
+      alt="redux"
       align="left"
       width="30"
       height="30"
