@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
   <a style="margin: 5px" href="https://www.w3schools.com/css/" target="_blank">
     <img
       style="margin: 5px"
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
       alt="SCSS"
       align="left"
       width="30"
