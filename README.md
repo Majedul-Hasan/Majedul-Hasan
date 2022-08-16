@@ -96,6 +96,16 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
+    <a style="margin: 5px" href="https://reactjs.org/" target="_blank">
+    <img
+      style="margin: 5px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      alt="react"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
 
   <a style="margin: 5px" href="https://nodejs.org" target="_blank">
     <img
