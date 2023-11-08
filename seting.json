@@ -1,0 +1,99 @@
+{
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+    "editor.mouseWheelZoom": true,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 20,
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.minimap.maxColumn": 30,
+    "editor.minimap.autohide": true,
+    "git.autofetch": true,
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html"
+    },
+    "files.associations": {
+        "*.css": "tailwindcss"
+      },
+    "editor.quickSuggestions": {
+        "strings": true
+      },
+
+    "liveSassCompile.settings.formats": [    
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": null,
+            "savePathReplacementPairs": null
+        },
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": null,
+            "savePathReplacementPairs": null
+        }
+    ],
+    "files.autoSave": "onFocusChange",
+    
+    "diffEditor.ignoreTrimWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.userWords": [
+        "daisyui",
+        "swal",
+        "tailwindcss"
+    ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.bracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.proseWrap": "always",
+    "prettier.singleAttributePerLine": true,
+    "prettier.singleQuote": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "eslint.format.enable": true,
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "jsx",
+        "react"
+    ],
+    "eslint.run": "onSave",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "css.lint.unknownVendorSpecificProperties": "warning",
+    "less.lint.unknownVendorSpecificProperties": "warning",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.lineHeight": 1.15,
+    "editor.accessibilityPageSize": 20,
+    "editor.codeLensFontSize": 10,
+    "editor.inlayHints.fontSize": 10,
+    "editor.suggestFontSize": 15,
+    "scm.inputFontSize": 15,
+    "debug.console.fontSize": 15,
+    "notebook.markup.fontSize": 15,
+    "notebook.output.fontSize": 15,
+    "gitlens.gitCommands.search.showResultsInSideBar": false,
+    "editor.guides.bracketPairs": true,
+    "git.confirmSync": false,
+    "bootstrapAutocomplete.version": "5.3.0"
+}
