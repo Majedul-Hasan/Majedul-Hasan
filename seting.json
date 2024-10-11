@@ -42,6 +42,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "cSpell.userWords": [
         "daisyui",
+        "hasanmajedul",
         "swal",
         "tailwindcss"
     ],
@@ -57,7 +58,6 @@
     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modificationsIfAvailable",
     "eslint.format.enable": true,
     "eslint.probe": [
         "javascript",
@@ -81,7 +81,6 @@
     },
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.enableBell": true,
     "terminal.integrated.fontSize": 20,
     "terminal.integrated.lineHeight": 1.15,
     "editor.accessibilityPageSize": 20,
@@ -95,5 +94,45 @@
     "gitlens.gitCommands.search.showResultsInSideBar": false,
     "editor.guides.bracketPairs": true,
     "git.confirmSync": false,
-    "bootstrapAutocomplete.version": "5.3.0"
+    "bootstrapAutocomplete.version": "5.3",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3360,
+            "driver": "MySQL",
+            "name": "bidya",
+            "database": "world",
+            "username": "root",
+            "askForPassword": true
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "postgres",
+            "database": "postgres",
+            "username": "postgres"
+        }
+    ],
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
+    "terminal.integrated.enableVisualBell": true,
+    "remote.SSH.remotePlatform": {
+        "103.228.38.27": "linux"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.commandCenter": false
 }
