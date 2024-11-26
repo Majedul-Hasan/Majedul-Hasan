@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   👑 I am Web Developer <br />
   🖊️ Love to write code <br />
   🎤 Like to share my knowledge <br />
-  🥅 2022 Goals: React, Node, Mongo, Next.js, Express.js
+  🥅 2025 Goals: microservice, Docker & Kubernetes
 </p><br/>
 
 ![Profile views](https://gpvc.arturio.dev/Majedul-Hasan)
