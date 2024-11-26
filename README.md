@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
  
 
-  <a style="margin: 5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+  <a style="margin: 15px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       align="left"
@@ -34,9 +34,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.typescriptlang.org/" target="_blank">
+  <a style="margin: 145px" href="https://www.typescriptlang.org/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       align="left"
@@ -44,9 +44,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-    <a style="margin: 5px" href="https://nodejs.org" target="_blank">
+    <a style="margin: 15px" href="https://nodejs.org" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       align="left"
@@ -54,9 +54,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-   <a style="margin: 5px" href="https://nextjs.org/" target="_blank">
+   <a style="margin: 15px" href="https://nextjs.org/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="[https://reactnative.dev/img/header_logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s)"
       alt="react"
       align="left"
@@ -64,9 +64,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-   <a style="margin: 5px" href="https://reactjs.org/" target="_blank">
+   <a style="margin: 15px" href="https://reactjs.org/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://reactnative.dev/img/header_logo.svg"
       alt="react"
       align="left"
@@ -74,12 +74,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-  
-
- 
-    <a style="margin: 5px" href="https://redux.js.org" target="_blank">
+   <a style="margin: 15px" href="https://redux.js.org" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
       alt="redux"
       align="left"
@@ -90,9 +87,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  <a style="margin: 5px" href="https://expressjs.com" target="_blank">
+  <a style="margin: 15px" href="https://expressjs.com" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
       align="left"
@@ -101,9 +98,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.mongodb.com/" target="_blank">
+  <a style="margin: 15px" href="https://www.mongodb.com/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       align="left"
@@ -111,9 +108,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-    <a style="margin: 5px" href="https://prisma.io/" target="_blank">
+    <a style="margin: 15px" href="https://prisma.io/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png"
       alt="PRISMA"
       align="left"
@@ -121,9 +118,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-     <a style="margin: 5px" href="https://www.w3schools.com/sql" target="_blank">
+     <a style="margin: 15px" href="https://www.w3schools.com/sql" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXHwLV6_K2mLhI861TElGSlt_ZhUq-unTbEQ&s"
       alt="PRISMA"
       align="left"
@@ -131,9 +128,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-   <a style="margin: 5px" href="https://mysql.com/" target="_blank">
+   <a style="margin: 15px" href="https://mysql.com/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdY5ijq_XozMl2JqF3GMTAZSplwjPPcBOSew&s"
       alt="PRISMA"
       align="left"
@@ -141,9 +138,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-     <a style="margin: 5px" href="https://postgresql.org/" target="_blank">
+     <a style="margin: 15px" href="https://postgresql.org/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwUP4f8i-uUMybfn9J_lSvI6Cy98PYe3aBMg&s"
       alt="PRISMA"
       align="left"
@@ -152,9 +149,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://firebase.google.com/" target="_blank">
+  <a style="margin: 15px" href="https://firebase.google.com/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
       align="left"
@@ -162,9 +159,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://heroku.com" target="_blank">
+  <a style="margin: 15px" href="https://heroku.com" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
       align="left"
@@ -172,9 +169,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-   <a style="margin: 5px" href="https://www.w3.org/html/" target="_blank">
+   <a style="margin: 15px" href="https://www.w3.org/html/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
       align="left"
@@ -183,9 +180,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.w3schools.com/css/" target="_blank">
+  <a style="margin: 15px" href="https://www.w3schools.com/css/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       align="left"
@@ -203,9 +200,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://getbootstrap.com" target="_blank">
+  <a style="margin: 15px" href="https://getbootstrap.com" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
       align="left"
@@ -214,9 +211,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://tailwindcss.com/" target="_blank">
+  <a style="margin: 15px" href="https://tailwindcss.com/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
       align="left"
@@ -226,7 +223,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://postman.com" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
       align="left"
@@ -234,9 +231,9 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
-  <a style="margin: 5px" href="https://git-scm.com/" target="_blank">
+  <a style="margin: 15px" href="https://git-scm.com/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       align="left"
@@ -245,9 +242,9 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.figma.com/" target="_blank">
+  <a style="margin: 15px" href="https://www.figma.com/" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
       align="left"
@@ -256,7 +253,7 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+  <a style="margin: 15px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img
       style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
@@ -269,7 +266,7 @@ You can click the Preview link to take a look at your changes.
 
   <a style="margin: 15px" href="https://www.photoshop.com/en" target="_blank">
     <img
-      style="margin: 5px"
+      style="margin: 15px"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
       alt="photoshop"
       align="left"
