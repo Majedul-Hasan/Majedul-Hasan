@@ -20,20 +20,46 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻 Skills & Tech Stack
 
-### 🚀 Backend
-Node.js • Express • TypeScript • Prisma • MongoDB • PostgreSQL • Redis • BullMQ
+### 🚀 Backend Development
+- Node.js
+- Express.js
+- TypeScript / JavaScript 
+- REST API Design
+- Prisma
+- Queue Systems (Redis, BullMQ)
 
-### 🎨 Frontend
-React • Next.js • Redux • Tailwind CSS • HTML • CSS
+### 🗄️ Databases & Caching
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis (Caching, Queues)
 
-### 📱 Mobile
-Flutter • Firebase
+### 🎨 Frontend Development
+- React.js
+- Next.js
+- Redux / RTK Query
+- Tailwind CSS
+- HTML5 • CSS3 • SCSS
+- Responsive & Mobile-First Design
 
-### ⚙️ DevOps & Cloud
-Docker • Nginx • PM2 • AWS • Git
+### ⚙️ DevOps & Deployment
+- Docker
+- Nginx
+- PM2
+- VPS (Ubuntu Linux)
+- GitHub Actions (CI/CD)
+- AWS (EC2 S3) / Cloud Hosting
+- Server Setup & Production Deployment
 
-### 🛠 Tools
-Postman • Figma
+### 🧪 Testing
+- Jest (Unit & API Testing)
+- Postman
+
+### 🛠 Tools & Design
+- Git & GitHub
+- Figma (UI/UX Design)
+- System Design Basics
+- API Integration
 
 <br/>
 <br/>
