@@ -54,10 +54,40 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
+  <a style="margin: 15px" href="https://www.docker.com/" target="_blank">
+    <img
+      style="margin: 15px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+      alt="docker"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+    <a style="margin: 15px" href="https://nginx.org/" target="_blank">
+    <img
+      style="margin: 15px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
+      alt="docker"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+    <a style="margin: 15px" href="https://nginx.org/" target="_blank">
+    <img
+      style="margin: 15px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pm2/pm2-original-wordmark.svg" 
+      alt="docker"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
    <a style="margin: 15px" href="https://nextjs.org/" target="_blank">
     <img
       style="margin: 15px"
-      src="[https://reactnative.dev/img/header_logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s)"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
       alt="react"
       align="left"
       width="30"
@@ -90,8 +120,19 @@ You can click the Preview link to take a look at your changes.
   <a style="margin: 15px" href="https://expressjs.com" target="_blank">
     <img
       style="margin: 15px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
       alt="express"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+  
+  <a style="margin: 15px" href="https://www.mongodb.com/" target="_blank">
+    <img
+      style="margin: 15px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"          
+      alt="mongodb"
       align="left"
       width="30"
       height="30"
@@ -148,6 +189,7 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </a>
+  
 
   <a style="margin: 15px" href="https://firebase.google.com/" target="_blank">
     <img
@@ -164,6 +206,27 @@ You can click the Preview link to take a look at your changes.
       style="margin: 15px"
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+    <a style="margin: 15px" href="https://www.aws.com/" target="_blank">
+    <img
+      style="margin: 15px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="docker"
+      align="left"
+      width="30"
+      height="30"
+    />
+  </a>
+    </a>
+    <a style="margin: 15px" href="https://www.apachikafka.com/" target="_blank">
+    <img
+      style="margin: 15px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" 
+      alt="docker"
       align="left"
       width="30"
       height="30"
